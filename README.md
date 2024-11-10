@@ -1,1 +1,1 @@
-# wordpress_theme
+# The Tartan's Custom Wordpress Theme
